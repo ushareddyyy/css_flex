@@ -1,0 +1,32 @@
+Css-flex:
+---------
+--moving of element with respected to x-axis(main axis) in a web page
+--it is one dimentional
+--by default css flex is responsive
+--to work with flex parent and child relationship is mandatory
+
+CSS-Flex properties
+-------------------
+1)display:flex:
+-it is used to convert block level elements to inline elements
+2)gap
+-it is used to maintain space between html elements
+ex:-gap:20px
+3)justify-content:flex-start/flex-end/center/space-between/space-around/space-evenly
+-it is used to move the html elemts in horizontal direction(main axis)
+-default vale is flex-start
+4)align-items:felx-start/end/center/stretch(default value)
+-it is used to move the html elemets vertically (cross-axis)
+-to work with align-items height property is mandatory
+5)flex-direction:row/row-reverse/column/column-reverse-it is used to change the direction of html elements or flex items
+-defaultvalue is row
+6)order
+-it is used to change the order of html elements
+-default:0
+ex:-order:1
+7)flex-wrap:wrap/nowrap/wrap-reverse
+-it is used to wrap the html element
+-default value is nowrap
+8)flex-basis
+it is used to specify width to the html elements
+ex:-flex-basis:30%
