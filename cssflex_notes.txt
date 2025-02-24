@@ -30,3 +30,6 @@ ex:-order:1
 8)flex-basis
 it is used to specify width to the html elements
 ex:-flex-basis:30%
+9)flex-grow
+-it is used to specify grow or expand a proposion to a perticular element
+ex:-flex-grow:2
