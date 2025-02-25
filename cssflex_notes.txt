@@ -33,3 +33,6 @@ ex:-flex-basis:30%
 9)flex-grow
 -it is used to specify grow or expand a proposion to a perticular element
 ex:-flex-grow:2
+10)flex-shrink
+-it is used to specify collapse/compration propotion to a perticular items
+-ex:-flex-shrink:2
